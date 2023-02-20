@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I'm interested in finding memory bugs.
-- 🌱 I'm currently studying web, app security
+- 🌱 I'm interested in finding bugs on something.
+- 🌱 I'm currently studying web, app security( frida, web app vulnerability, etc.. )
 
 <!--
 **zeroone-kr/zeroone-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
