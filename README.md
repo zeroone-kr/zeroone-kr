@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I'm interested in finding bugs on something.
+
 🌱 I'm currently studying web, app security( frida, web app vulnerability, etc.. )
 
 <!--
