@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&theme=dark&show_icons=true)
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=A8B9CC"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=00599C"/></a>
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=이미지 이름&logoColor=black">
