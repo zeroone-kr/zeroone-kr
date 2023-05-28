@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 ---
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=black"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black"> 
 
+:bulb: security testing tools
+frida, afl++, IDA, x94dbg etc
+
+
