@@ -1,7 +1,6 @@
 :bulb: Hi there 👋
 ---
 🌱 I'm mainly interested in finding bugs on something.
-
 🌱 I'm currently studying system security or else.
 
 <!--
@@ -19,13 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ major projects I joined
+⚡ Major projects I joined
 - 2fa-acs(2 factor authentication access control system): This is an University of Ulsan team project. All repositories are private. This project includes app, web and gui programming for enhancement of authentication.
 - Projects finding bugs on iot devices.
 
 Now I'm looking forward to doing some projects finding memory corruptions or else in the future.
 
-🤔 experiences
+
+⚡ experiences
 - windows driver development for blocking communication from internal office: This was an University of Ulsan team projects We tried to block the access to non-office-related in https channel.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&theme=dark&show_icons=true)
