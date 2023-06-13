@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&theme=dark&show_icons=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&theme=dark&show_icons=true)-->
 
 :bulb: languages
 ---
