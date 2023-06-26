@@ -2,8 +2,7 @@
 ---
 🌱 I'm mainly interested in finding bugs on something.
 
-🌱 I'm currently studying system security or else.
-
+🌱 I'm currently studying system security.
 <!--
 **zeroone-kr/zeroone-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,3 +27,6 @@ Here are some ideas to get you started:
 :bulb: framework and tools
 ---
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=black"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black"> 
+
+:bulb: debugging tools
+I use gdb, IDA, x94dbg, windbg, burpsuite or else.
