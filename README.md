@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 :bulb: Preferred Tools
 ---
-Windows: IDA, X94dbg
-Linux: IDA, pwndbg
-Android: JEB
+- Windows: IDA, X94dbg
+- Linux: IDA, pwndbg
+- Android: JEB
 
