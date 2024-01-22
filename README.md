@@ -1,7 +1,7 @@
 :trident: Hi, there!
 ---
 - I'm mainly interested in finding bugs on IoT software.
-- Generally, Interested in finding bugs on software like system, application sw, web app and etc.
+- Generally, Interested in finding bugs on system software, service softrware, web application and etc.
 - Completed Best of The Best 11th.
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&theme=dark&show_icons=true)-->
