@@ -3,6 +3,7 @@
 - I'm mainly interested in finding bugs on IoT software.
 - Generally, Interested in finding bugs on system software, service software, web application and etc.
 - Completed [Best of The Best 11th](https://www.kitribob.kr/).
+- [More information](https://url.kr/rcyi31) about me.
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&theme=dark&show_icons=true)-->
 
