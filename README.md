@@ -9,11 +9,10 @@
 
 :trident: Languages
 ---
-![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Java-437291?style=flat&logo=OpenJDK&logoColor=white)
-
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=OpenJDK&logoColor=white)](#)
 
 :trident: Preferred Analysis Tools
 ---
