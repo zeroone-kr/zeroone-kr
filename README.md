@@ -16,13 +16,8 @@
 - Windows: IDA, X94dbg
 - Linux: IDA, pwndbg
 - Android: JEB
-- etc.
 
 :trident: Development Tools
 ---
 - web app: spring boot, django, flask
 - mobile app: android sdk
-- etc.
-
-
-
