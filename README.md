@@ -9,7 +9,11 @@
 
 :trident: Languages
 ---
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Java-437291?style=flat&logo=OpenJDK&logoColor=white)
+
 
 :trident: Preferred Analysis Tools
 ---
@@ -21,3 +25,5 @@
 ---
 - web app: spring boot, django, flask
 - mobile app: android sdk
+
+<!-- https://simpleicons.org/-->
