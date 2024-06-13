@@ -34,6 +34,6 @@
 :trident: Development Tools
 ---
 - web app: spring boot, django, flask
-- mobile app: android sdk
+- mobile app: android java sdk
 
 <!-- https://simpleicons.org/-->
