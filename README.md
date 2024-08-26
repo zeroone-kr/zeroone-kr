@@ -6,24 +6,14 @@
 - [More information (eng)](https://url.kr/dqr7x1) about me
 - [More information (kor)](https://url.kr/rcyi31) about me
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&theme=dark&show_icons=true)-->
-
 :trident: Languages
 ---
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=OpenJDK&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=OpenJDK&logoColor=white)](#) 
 
-<!--
-<picture>
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-  
-</picture>
-<picture>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-</picture>
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&show_icons=true&theme=tokyonight&rank_icon=github)
 
 :trident: Preferred Analysis Tools
 ---
@@ -36,4 +26,4 @@
 - web app: spring boot, django, flask
 - mobile app: android java sdk
 
-<!-- https://simpleicons.org/-->
+
