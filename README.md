@@ -17,7 +17,7 @@
 
 :trident: Preferred Analysis Tools
 ---
-- Windows: IDA, X94dbg
+- Windows: IDA, X64dbg
 - Linux: IDA, pwndbg
 - Android: JEB
 
