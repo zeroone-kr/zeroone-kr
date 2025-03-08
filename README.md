@@ -19,7 +19,7 @@
 ---
 - Windows: IDA, X64dbg
 - Linux: IDA, pwndbg
-- Android: JEB
+- Android: JADX, JEB
 
 :trident: Development Tools
 ---
