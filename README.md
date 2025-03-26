@@ -15,15 +15,20 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&show_icons=true&theme=tokyonight&rank_icon=github)
 
-:trident: Preferred Analysis Tools
+:trident: Technical Skills in Vulnerability Analysis
 ---
-- Windows: IDA, X64dbg
-- Linux: IDA, pwndbg
-- Android: JADX, JEB
+- Program Analysis with IDA, gdb, X64dbg
+- Android app analysis with JADX
+- LLVM, SVF, CodeQL
 
-:trident: Development Tools
+:trident: Technical Skills in Digital Forensic
 ---
-- web app: spring boot, django, flask
-- mobile app: android java sdk
+- Network Forensic
+- Memory Forensic (e.g., volatility )
 
-
+:trident: Technical Skills in Development
+---
+- Web application development with Java (e.g., Servlet/JSP, Spring Boot, JPA, Djanggo)
+- Android application development with Java
+- Machine Learning to detect malware PE files
+- Network packet parser development with C, pcap library
