@@ -17,9 +17,10 @@
 
 :trident: Vulnerability Analysis Skills
 ---
+- LLVM, Fuzzing, SVF, CodeQL
 - Program Analysis with IDA, gdb, X64dbg
 - Android app analysis with JADX
-- LLVM, Fuzzing, SVF, CodeQL
+
 
 
 <!--
