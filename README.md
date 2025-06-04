@@ -19,8 +19,10 @@
 ---
 - Program Analysis with IDA, gdb, X64dbg
 - Android app analysis with JADX
-- LLVM, SVF, CodeQL
+- LLVM, Fuzzing, SVF, CodeQL
 
+
+<!--
 :trident: Digital Forensic Skills
 ---
 - Network Forensic
@@ -33,3 +35,4 @@
 - Machine Learning to detect malware PE files ( cannot be disclosed )
 - Network packet parser ( cannot be disclosed )
 - Image processing ([image_filter](https://github.com/zeroone-kr/image-processing))
+ -->
