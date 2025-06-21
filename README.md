@@ -1,7 +1,7 @@
 :trident: Hi, there!
 ---
-- I'm mainly interested in finding bugs on IoT devices
-- Generally, Interested in finding bugs on system software, service software and etc
+- I'm mainly interested in finding bugs on moving devices.
+- Generally, Interested in finding bugs on system software, service software and etc.
 - Completed [Best of The Best 11th](https://www.kitribob.kr/)
 - [More information (eng)](https://url.kr/dqr7x1) about me
 - [More information (kor)](https://url.kr/rcyi31) about me
