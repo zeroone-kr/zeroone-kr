@@ -1,10 +1,9 @@
 :trident: Hi, there!
 ---
 - I'm mainly interested in finding bugs on moving devices.
-- Generally, Interested in finding bugs on system software, service software and etc.
+- Also interested in finding bugs on system software, service software and etc.
 - Completed [Best of The Best 11th](https://www.kitribob.kr/)
-- [More information (eng)](https://url.kr/dqr7x1) about me
-- [More information (kor)](https://url.kr/rcyi31) about me
+- More information ([eng](https://url.kr/dqr7x1), [kor](https://url.kr/rcyi31)) about me
 
 :trident: Languages
 ---
@@ -17,9 +16,10 @@
 
 :trident: Vulnerability Analysis Skills
 ---
-- LLVM, Fuzzing, SVF, CodeQL
+- Fuzzing, Static analysis (e.g., SVF, CodeQL )
+- Fuzzer development, static analysis development
 - Program Analysis with IDA, gdb, X64dbg
-- Android app analysis with JADX
+- Android app analysis
 
 
 
