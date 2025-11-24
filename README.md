@@ -1,7 +1,6 @@
 :trident: Hi, there!
 ---
-- I'm mainly interested in finding bugs on moving devices.
-- Also interested in finding bugs on system software, service software and etc.
+- My research centers on identifying exploitable vulnerabilities that could threaten user safety or cause significant organizational impact, with the ultimate goal of contributing to a safer and more secure society. 
 - Completed vulnerability analysis track in [Best of The Best 11th](https://www.kitribob.kr/)
 - You can see more about me in [here](https://zeroone-kr.github.io/)
 
