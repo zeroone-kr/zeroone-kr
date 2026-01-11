@@ -15,7 +15,7 @@
 
 :trident: Vulnerability Analysis Skills
 ---
-- Fuzzing, Static analysis (e.g., SVF, CodeQL )
+- Fuzzing, Program analysis (e.g., SVF, CodeQL )
 - Fuzzer development, static analysis development
 - Program Analysis with IDA, gdb, X64dbg
 - Android app analysis
