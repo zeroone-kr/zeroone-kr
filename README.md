@@ -1,8 +1,9 @@
 :trident: Hi, there!
 ---
 - My research centers on identifying exploitable vulnerabilities that could threaten user safety or cause significant organizational impact, with the ultimate goal of contributing to a safer and more secure society. 
-- Completed vulnerability analysis track in [Best of The Best 11th](https://www.kitribob.kr/)
 - You can see more about me in [here](https://zeroone-kr.github.io/)
+<!-- Completed vulnerability analysis track in [Best of The Best 11th](https://www.kitribob.kr/) -->
+
 
 :trident: Languages
 ---
