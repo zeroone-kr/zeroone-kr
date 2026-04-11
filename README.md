@@ -7,7 +7,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&show_icons=true&theme=tokyonight&rank_icon=github) -->
 
-:trident: Skills
+:trident: Hard Skills
 ---
 - Software security, Program analysis (e.g., SVF, CodeQL, Fuzzing, IDA ... )
 - Fuzzer development, static analysis development
