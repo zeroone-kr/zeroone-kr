@@ -1,6 +1,7 @@
 :trident: Hi, there!
 ---
-- My research centers on identifying exploitable vulnerabilities that could threaten user safety or cause significant organizational impact, with the ultimate goal of contributing to a safer and more secure society.
+- My research focuses on identifying exploitable vulnerabilities that impact <ins>***user safety***</ins> or <ins>***organizational security***</ins>.
+- My ultimate goal is to contribute to a safer and more secure society.
 - You can see more about me in [here](https://zeroone-kr.github.io/)
 <!-- Completed vulnerability analysis track in [Best of The Best 11th](https://www.kitribob.kr/) -->
 
@@ -8,8 +9,7 @@
 
 :trident: Skills
 ---
-- System security, Web security
-- Program analysis (e.g., SVF, CodeQL, Fuzzing, IDA ... )
+- Software security, Program analysis (e.g., SVF, CodeQL, Fuzzing, IDA ... )
 - Fuzzer development, static analysis development
 
 :trident: Languages
