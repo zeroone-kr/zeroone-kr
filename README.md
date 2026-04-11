@@ -1,24 +1,23 @@
 :trident: Hi, there!
 ---
 - My research centers on identifying exploitable vulnerabilities that could threaten user safety or cause significant organizational impact, with the ultimate goal of contributing to a safer and more secure society.
-- Completed vulnerability analysis track in [Best of The Best 11th](https://www.kitribob.kr/)
 - You can see more about me in [here](https://zeroone-kr.github.io/)
-
-:trident: Languages
----
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=OpenJDK&logoColor=white)](#) 
+<!-- Completed vulnerability analysis track in [Best of The Best 11th](https://www.kitribob.kr/) -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroone-kr&show_icons=true&theme=tokyonight&rank_icon=github) -->
 
-:trident: Vulnerability Analysis Skills
+:trident: Skills
 ---
-- Fuzzing, Program analysis (e.g., SVF, CodeQL )
+- System security, Web security
+- Program analysis (e.g., SVF, CodeQL, Fuzzing, IDA ... )
 - Fuzzer development, static analysis development
-- Program Analysis with IDA, gdb, X64dbg
-- Android app analysis
+
+:trident: Languages
+---
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=OpenJDK&logoColor=white)](#) 
+ [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](#) 
 
 
 
