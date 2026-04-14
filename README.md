@@ -1,6 +1,6 @@
 :trident: Hi, there!
 ---
-- My research focuses on identifying exploitable vulnerabilities that impact <ins>***user safety***</ins> or <ins>***organizational security***</ins>.
+- My research focuses on identifying <ins>***exploitable vulnerabilities***</ins> that impact <ins>***user safety***</ins> or <ins>***organizational security***</ins>.
 - You can see more about me in [here](https://zeroone-kr.github.io/)
 <!-- Completed vulnerability analysis track in [Best of The Best 11th](https://www.kitribob.kr/) -->
 
