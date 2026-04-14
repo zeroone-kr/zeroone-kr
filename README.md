@@ -8,7 +8,7 @@
 
 :trident: Hard Skills
 ---
-- Software security, Program analysis (e.g., SVF, CodeQL, Fuzzing, IDA ... )
+- Software security, Program analysis
 - Fuzzer development, static analysis development
 
 :trident: Languages
