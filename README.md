@@ -1,7 +1,9 @@
 <!--:trident: Hi, there!
 ---
 -->
-My research focuses on identifying <ins>***exploitable vulnerabilities***</ins>.
+***Exploitable Vulnerabilities*** are at the core of my research
+
+
 <!-- You can see more about me in [here](https://zeroone-kr.github.io/) -->
 <!-- Completed vulnerability analysis track in [Best of The Best 11th](https://www.kitribob.kr/) -->
 
