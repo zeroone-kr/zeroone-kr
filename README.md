@@ -1,6 +1,7 @@
 <!--:trident: Hi, there!
 ---
 -->
+***T-shaped Security Researcher*** for the AI Era  
 ***Exploitable Vulnerabilities*** are at the core of my research
 
 Interest: Fuzzing/Vulnerability Research · IoT/Embedded · Web Security
