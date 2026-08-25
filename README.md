@@ -3,6 +3,8 @@
 -->
 ***Exploitable Vulnerabilities*** are at the core of my research
 
+No impact = no finding
+
 Interest: Fuzzing/Vulnerability Research · IoT/Embedded · Web Security
 <!-- You can see more about me in [here](https://zeroone-kr.github.io/) -->
 <!-- Completed vulnerability analysis track in [Best of The Best 11th](https://www.kitribob.kr/) -->
